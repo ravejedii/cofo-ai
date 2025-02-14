@@ -10,7 +10,17 @@ const teamMembers = [
     email: "lucas.crawford.richards@gmail.com",
     image: "/placeholder.svg?height=100&width=100",
   },
-  { name: "David Yang", role: "Co-Founder", email: "", image: "/placeholder.svg?height=100&width=100" },
+  { name: "David Yang", 
+    role: "Co-Founder", 
+    email: "", 
+    image: "/placeholder.svg?height=100&width=100" 
+  },
+  {
+    name: "Vim Vasu",
+    role: "Co-Founder",
+    email: "",
+    image: "/placeholder.svg?height=100&width=100"
+  },
 ]
 
 export default function TeamSection() {
