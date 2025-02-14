@@ -15,25 +15,3 @@ npm install --legacy-peer-deps
 ```
 
 
-##### SETUP FIREBASE ####
-
-```
-firebase init
-```
-SELECTED Firestore, function and hosting
-
-```
- npm install -g firebase-tools 
- ```
-
-
- ### DEPLOY TO PRODUCTION -- FIREBASE ###
-
- ```
- npm run build
- ```
-
- ```
- firebase deploy
- ```
- 
