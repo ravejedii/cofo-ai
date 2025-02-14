@@ -13,3 +13,9 @@ This will install all required packages including `next` and `react`. If you enc
 ```
 npm install --legacy-peer-deps
 ```
+
+This runs development server to see how it looks etc.
+```
+npm run dev
+```
+
