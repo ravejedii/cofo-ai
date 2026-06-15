@@ -15,7 +15,7 @@ const leads = [
     name: "Lucas Richards",
     role: "Hackathon Partner",
     email: "lucas.crawford.richards@gmail.com",
-    image: "/team/lucas-richards.jpg",
+    image: "/team/lucas-richards.png",
   },
   {
     name: "David Yang",
