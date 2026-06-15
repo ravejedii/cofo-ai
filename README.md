@@ -21,7 +21,7 @@
 operators who can't justify a full finance/ops team but still need the judgment one provides.
 
 This repository hosts the project's **overview & roadmap site**: a single, focused page laying out the
-vision, the founding team, the current validation phase, and the milestone roadmap from customer
+vision, the team, the current validation phase, and the milestone roadmap from customer
 discovery through launch.
 
 > **Status:** early validation ("Red Door Test"). Originally built as a hackathon project.
@@ -36,6 +36,8 @@ discovery through launch.
 
 - **Lucas Richards**
 - **David Yang**
+- **Imtiaz Choudhry**
+- **Vim Vasu**
 
 ## Tech stack
 
@@ -50,8 +52,3 @@ npm install            # or: npm install --legacy-peer-deps
 npm run dev            # http://localhost:3000
 ```
 
----
-
-<div align="center">
-A <a href="https://www.ravejedi.com">RAVEJEDI LABS</a> project.
-</div>
