@@ -43,14 +43,9 @@ export default function Footer() {
         <div className="mt-8 border-t border-primary/10 pt-8 text-center">
           <p className="text-sm text-muted-foreground">
             Built at the{" "}
-            <a
-              href="https://buildcity.xyz"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="font-medium text-primary hover:underline"
-            >
+            <span className="font-medium text-primary">
               BuildCity AI Bootcamp
-            </a>
+            </span>
             . Huge thanks to the BuildCity team for the mentorship, community, and a great week of building. 🙏
           </p>
         </div>
